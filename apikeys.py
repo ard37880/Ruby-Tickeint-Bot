@@ -1,1 +1,1 @@
-discord_bot_token = "MTIwMTI5MTQ2MzYyODE2OTMxNw.G-fmRy.UgkBW4RsCxlRWc-s_-uYRlwnR7jcoesEmqxrGE"
+discord_bot_token = "YOUR KEY HERE"
