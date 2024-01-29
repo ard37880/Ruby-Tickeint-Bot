@@ -1,2 +1,2 @@
-# Ruby-Tickeint-Bot
+# Ruby-Ticketing-Bot
 Ticketing Bot 
