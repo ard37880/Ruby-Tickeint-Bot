@@ -15,9 +15,9 @@ intents.message_content = True
 bot = commands.Bot(command_prefix="!", intents=nextcord.Intents.all())
 
 
-ticket_message = 1201417111831052420
-ticket_category = 1201291974364381274
-tiecket_channel = 1201292022473052261
+ticket_message = YOUR MESSAGE ID HERE
+ticket_category = YOUR CATEGORY ID HERE
+tiecket_channel = YOUR CHANNEL ID HERE
 
 @bot.event
 async def on_ready():
