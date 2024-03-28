@@ -14,9 +14,9 @@ intents.message_content = True
 bot = commands.Bot(command_prefix="!", intents=nextcord.Intents.all())
 
 
-ticket_message = 1201787673359167559
-ticket_category = 1201291974364381274
-tiecket_channel = 1201292022473052261
+ticket_message = #ADD MESSAGE HERE
+ticket_category = #ADD CATAGORY HERE
+tiecket_channel = #ADD CHANNEL HERE
 
 class CloseTicketButton(nextcord.ui.Button):
     def __init__(self):
